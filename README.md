@@ -4,10 +4,9 @@
 This repository contains the material for the technical tutorial on applying multitask learning, pretraining, and transfer learning to low-quality and low-data datasets, focusing on peptide properties prediction.
 The examples presented here are a simplified and 'tiny' version of some of the approaches developed as part of the [PePcube project](https://github.com/elee151/pepcube_property).
 
-## Repository Structure 
-The repository is organised around four practical notebooks:
+## Structure 
+The tutorial is organised around four practical notebooks:
 * **Notebook 1** — Single-Task vs. Multitask Learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbirolo/IX_technical_turorial2026/blob/main/1_single_vs_multitask.ipynb)
-
 > Introduction to [Chemprop](https://pubs.acs.org/jcisd8/article/64/1/9/850416/Chemprop-A-Machine-Learning-Package-for-Chemical) and comparison between single-task and multitask models for peptide property prediction.
 * **Notebook 2** — Multitask Pretraining Exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbirolo/IX_technical_turorial2026/blob/main/2_proxy_pretraining.ipynb)
 > A hands-on exercise to train a multitask model on calculated scores representing proxy peptide properties. Only natural amino acids sequences (15K entries) are used as input for the pretraining model.

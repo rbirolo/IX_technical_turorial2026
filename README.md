@@ -18,11 +18,10 @@ Pretraining using [Chemeleon](
 https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01546/5250516/Deep-Learning-Foundation-Models-for-Low-Data), optimised for molecular properties predictions.
 
 ## Data and Models
-The `data/` folder contains the datasets for training and evaluation.
-Pretrained models are saved in the `models/ folder`.
+Datasets for training and evaluation and pretrained models are saved in the folders `data/` and `models/`.
 
 > [!IMPORTANT]
 > If you would like to use [Chemprop](https://pubs.acs.org/jcisd8/article/64/1/9/850416/Chemprop-A-Machine-Learning-Package-for-Chemical) or [Chemeleon](
 https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01546/5250516/Deep-Learning-Foundation-Models-for-Low-Data), or explore these tools further, additional tutorials can be found in their original repositories:
-> [https://chemprop.readthedocs.io/en/main/notebooks.html](https://chemprop.readthedocs.io/en/main/notebooks.html)
+> [https://chemprop.readthedocs.io/en/main/notebooks.html](https://chemprop.readthedocs.io/en/main/notebooks.html) and
 > [https://github.com/JacksonBurns/chemeleon](https://github.com/JacksonBurns/chemeleon)

@@ -1,5 +1,4 @@
 # Technical Tutorial — 15th September 2026
-*Chemprop for Peptide Property Prediction: Multitask Learning, Pretraining, and Fine-Tuning*
 
 This repository contains the material for the technical tutorial on applying multitask learning, pretraining, and transfer learning to low-quality and low-data datasets, focusing on peptide properties prediction.
 The examples presented here are a simplified and 'tiny' version of some of the approaches developed as part of the [PePcube project](https://github.com/elee151/pepcube_property).
@@ -20,7 +19,7 @@ https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01546/5250516/Deep-Le
 Datasets for training and evaluation and pretrained models are saved in the folders `data/` and `models/`.
 
 > [!IMPORTANT]
-> If you would like to use [Chemprop](https://pubs.acs.org/jcisd8/article/64/1/9/850416/Chemprop-A-Machine-Learning-Package-for-Chemical) or [Chemeleon](
+> If you would like to use [Chemprop](https://pubs.acs.org/jcisd8/article/64/1/9/850416/Chemprop-A-Machine-Learning-Package-for-Chemical) / [Chemprop_v2](https://pubs.acs.org/jcisd8/article/66/1/28/5080274/Chemprop-v2-An-Efficient-Modular-Machine-Learning?searchresult=1) or [Chemeleon](
 https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01546/5250516/Deep-Learning-Foundation-Models-for-Low-Data), or explore these tools further, additional tutorials can be found in their original repositories:
 > [https://chemprop.readthedocs.io/en/main/notebooks.html](https://chemprop.readthedocs.io/en/main/notebooks.html) and
 > [https://github.com/JacksonBurns/chemeleon](https://github.com/JacksonBurns/chemeleon)
